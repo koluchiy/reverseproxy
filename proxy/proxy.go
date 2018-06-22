@@ -2,7 +2,7 @@ package proxy
 
 import (
 	"net/http"
-	"bitbucket.org/carprice/reverseproxy/access"
+	"github.com/koluchiy/reverseproxy/access"
 	"strings"
 	"net/http/httputil"
 	"net/url"

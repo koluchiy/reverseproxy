@@ -3,8 +3,8 @@ package casbin
 import (
 	"net/http"
 	"github.com/casbin/casbin"
-	"bitbucket.org/carprice/reverseproxy/access"
-	"bitbucket.org/carprice/reverseproxy/extractor"
+	"github.com/koluchiy/reverseproxy/access"
+	"github.com/koluchiy/reverseproxy/extractor"
 )
 
 type manager struct {
